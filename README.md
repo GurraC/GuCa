@@ -1,4 +1,4 @@
-Anax-base
+GuCa
 ==================
  
 A boilerplate for smaller websites or webbapplications using PHP.
