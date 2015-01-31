@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>  <loc>http://http://www.student.bth.se/~guca14/oophp/kmom01/webroot/me.php</loc>
+    <lastmod>2014-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>   <loc>http://http://www.student.bth.se/~guca14/oophp/kmom01/webroot/redovisning.php</loc>
+    <lastmod>2014-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>   <loc>http://www.student.bth.se/~guca14/oophp/kmom01/webroot/source.php</loc>
+    <lastmod>2014-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>   <loc>http://www.student.bth.se/~guca14/oophp/kmom01/webroot/onehundred.php</loc>
+    <lastmod>2014-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+<url>   <loc>http://www.student.bth.se/~guca14/oophp/kmom01/webroot/kalender.php</loc>
+    <lastmod>2014-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset> 

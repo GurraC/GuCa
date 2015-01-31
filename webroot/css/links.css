@@ -1,0 +1,55 @@
+/** --------------------------------------------------------------
+ * Icons
+ *
+ */
+ul.icons {
+  margin: 0;
+  margin-bottom: 1.375em;
+  padding: 0;
+  list-style: none;
+}
+
+ul.icons li {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+/** --------------------------------------------------------------
+ * Navbar: Plain style, nothing special
+ *
+ */
+ul.nb-plain {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.nb-plain li {
+  padding: 0 0 0 1em;
+  margin: 0;
+  display: inline;
+}
+
+ul.nb-plain li:first-child {
+  padding-left: 0;
+}
+
+ul.nb-plain li.selected a {
+  text-shadow: 0px 0px 20px #0000ff;
+}    
+
+ul.nb-plain a {
+  color: #333;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}  
+
+ul.nb-plain a:hover {
+  text-decoration: none;
+  text-shadow: 0px 0px 20px #0000ff;
+}
+
